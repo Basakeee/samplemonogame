@@ -1,3 +1,3 @@
 ﻿
-using var game = new samplemonogame.Game1();
+using var game = new sampleMonogame.Game1();
 game.Run();

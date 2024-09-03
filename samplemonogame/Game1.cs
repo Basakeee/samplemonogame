@@ -2,12 +2,13 @@
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace samplemonogame
+namespace sampleMonogame
 {
     public class Game1 : Game
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        int x = 0;
 
         public Game1()
         {
