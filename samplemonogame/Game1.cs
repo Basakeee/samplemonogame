@@ -8,7 +8,7 @@ namespace samplemonogame
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
-
+        string x = "player jump";
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
