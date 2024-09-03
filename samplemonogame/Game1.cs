@@ -10,6 +10,7 @@ namespace sampleMonogame
         private SpriteBatch _spriteBatch;
         int x = 0;
         int y = 0;
+        int z = 0;  
 
         public Game1()
         {
