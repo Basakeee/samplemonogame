@@ -12,6 +12,8 @@ namespace sampleMonogame
         int y = 0;
         int z = 0;  
 
+
+        string X = "player jump";
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
